@@ -5011,6 +5011,7 @@
     "icon": "app-icon.png",
     "version":"0.01",
     "description": "This is a description of my awesome timer app",
+    "supports": ["BANGLEJS", "BANGLEJS2"],
     "tags": "",
     "storage": [
       {"name":"timer.app.js","url":"app.js"},
