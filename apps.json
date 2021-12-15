@@ -5003,5 +5003,18 @@
       {"name":"lapcounter.app.js","url":"app.js"},
       {"name":"lapcounter.img","url":"app-icon.js","evaluate":true}
     ]
+  },
+  {
+    "id": "timer",
+    "name": "My Timer App",
+    "shortName":"My Timer",
+    "icon": "app-icon.png",
+    "version":"0.01",
+    "description": "This is a description of my awesome timer app",
+    "tags": "",
+    "storage": [
+      {"name":"timer.app.js","url":"app.js"},
+      {"name":"timer.img","url":"app-icon.js","evaluate":true}
+    ]
   }
 ]
